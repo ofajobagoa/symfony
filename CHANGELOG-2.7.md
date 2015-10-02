@@ -1,6 +1,8 @@
 CHANGELOG for 2.7.x
 ===================
 
+http://forsage4.ru - каталог объявлений различной темтики.
+
 This changelog references the relevant changes (bug and security fixes) done
 in 2.7 minor versions.
 
